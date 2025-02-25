@@ -1,0 +1,347 @@
+2024-12-19 09:33:57 - Script execution started.
+2024-12-19 09:33:57 - RAM usage is 50%. No action required.
+2024-12-19 09:33:57 - Script execution finished.
+2024-12-19 09:34:09 - Script execution started.
+2024-12-19 09:34:09 - RAM usage is 52%. No action required.
+2024-12-19 09:34:09 - Script execution finished.
+2024-12-19 09:42:25 - Script execution started.
+2024-12-19 09:42:25 - RAM usage is 53%. No action required.
+2024-12-19 09:42:25 - Script execution finished.
+2024-12-19 09:59:01 - Script execution started.
+2024-12-19 09:59:01 - RAM usage is 85%. Restarting pam-ssh.service.
+2024-12-19 09:59:01 - pam-ssh.service restarted successfully.
+2024-12-19 09:59:01 - Script execution finished.
+2024-12-19 10:00:01 - Script execution started.
+2024-12-19 10:00:01 - RAM usage is 87%. Restarting pam-ssh.service.
+2024-12-19 10:00:01 - pam-ssh.service restarted successfully.
+2024-12-19 10:00:01 - Script execution finished.
+2024-12-19 10:01:01 - Script execution started.
+2024-12-19 10:01:01 - RAM usage is 88%. Restarting pam-ssh.service.
+2024-12-19 10:01:01 - pam-ssh.service restarted successfully.
+2024-12-19 10:01:01 - Script execution finished.
+2024-12-19 10:02:01 - Script execution started.
+2024-12-19 10:02:01 - RAM usage is 86%. Restarting pam-ssh.service.
+2024-12-19 10:02:01 - pam-ssh.service restarted successfully.
+2024-12-19 10:02:01 - Script execution finished.
+2024-12-19 10:03:01 - Script execution started.
+2024-12-19 10:03:01 - RAM usage is 49%. No action required.
+2024-12-19 10:03:01 - Script execution finished.
+2024-12-19 10:04:01 - Script execution started.
+2024-12-19 10:04:01 - RAM usage is 54%. No action required.
+2024-12-19 10:04:01 - Script execution finished.
+2024-12-19 10:05:01 - Script execution started.
+2024-12-19 10:05:01 - RAM usage is 59%. No action required.
+2024-12-19 10:05:01 - Script execution finished.
+2024-12-19 10:06:02 - Script execution started.
+2024-12-19 10:06:02 - RAM usage is 59%. No action required.
+2024-12-19 10:06:02 - Script execution finished.
+2024-12-19 10:07:01 - Script execution started.
+2024-12-19 10:07:01 - RAM usage is 66%. No action required.
+2024-12-19 10:07:01 - Script execution finished.
+2024-12-19 10:08:01 - Script execution started.
+2024-12-19 10:08:01 - RAM usage is 67%. No action required.
+2024-12-19 10:08:01 - Script execution finished.
+2024-12-19 10:09:01 - Script execution started.
+2024-12-19 10:09:01 - RAM usage is 71%. No action required.
+2024-12-19 10:09:01 - Script execution finished.
+2024-12-19 10:10:01 - Script execution started.
+2024-12-19 10:10:01 - RAM usage is 74%. No action required.
+2024-12-19 10:10:01 - Script execution finished.
+2024-12-19 10:11:02 - Script execution started.
+2024-12-19 10:11:02 - RAM usage is 76%. No action required.
+2024-12-19 10:11:02 - Script execution finished.
+2024-12-19 10:12:01 - Script execution started.
+2024-12-19 10:12:01 - RAM usage is 78%. No action required.
+2024-12-19 10:12:01 - Script execution finished.
+2024-12-19 10:13:01 - Script execution started.
+2024-12-19 10:13:01 - RAM usage is 80%. No action required.
+2024-12-19 10:13:01 - Script execution finished.
+2024-12-19 10:14:01 - Script execution started.
+2024-12-19 10:14:01 - RAM usage is 83%. Restarting pam-ssh.service.
+2024-12-19 10:14:01 - pam-ssh.service restarted successfully.
+2024-12-19 10:14:01 - Script execution finished.
+2024-12-19 10:15:01 - Script execution started.
+2024-12-19 10:15:01 - RAM usage is 84%. Restarting pam-ssh.service.
+2024-12-19 10:15:01 - pam-ssh.service restarted successfully.
+2024-12-19 10:15:01 - Script execution finished.
+2024-12-19 10:16:02 - Script execution started.
+2024-12-19 10:16:02 - RAM usage is 87%. Restarting pam-ssh.service.
+2024-12-19 10:16:02 - pam-ssh.service restarted successfully.
+2024-12-19 10:16:02 - Script execution finished.
+2024-12-19 10:17:01 - Script execution started.
+2024-12-19 10:17:01 - RAM usage is 87%. Restarting pam-ssh.service.
+2024-12-19 10:17:01 - pam-ssh.service restarted successfully.
+2024-12-19 10:17:01 - Script execution finished.
+2024-12-19 10:18:01 - Script execution started.
+2024-12-19 10:18:01 - RAM usage is 87%. Restarting pam-ssh.service.
+2024-12-19 10:18:01 - pam-ssh.service restarted successfully.
+2024-12-19 10:18:01 - Script execution finished.
+2024-12-19 10:19:01 - Script execution started.
+2024-12-19 10:19:01 - RAM usage is 36%. No action required.
+2024-12-19 10:19:01 - Script execution finished.
+2024-12-19 10:20:01 - Script execution started.
+2024-12-19 10:20:01 - RAM usage is 39%. No action required.
+2024-12-19 10:20:01 - Script execution finished.
+2024-12-19 10:21:01 - Script execution started.
+2024-12-19 10:21:01 - RAM usage is 36%. No action required.
+2024-12-19 10:21:01 - Script execution finished.
+2024-12-19 10:22:02 - Script execution started.
+2024-12-19 10:22:02 - RAM usage is 39%. No action required.
+2024-12-19 10:22:02 - Script execution finished.
+2024-12-19 10:23:01 - Script execution started.
+2024-12-19 10:23:01 - RAM usage is 40%. No action required.
+2024-12-19 10:23:01 - Script execution finished.
+2024-12-19 10:24:01 - Script execution started.
+2024-12-19 10:24:01 - RAM usage is 40%. No action required.
+2024-12-19 10:24:01 - Script execution finished.
+2024-12-19 10:25:01 - Script execution started.
+2024-12-19 10:25:01 - RAM usage is 39%. No action required.
+2024-12-19 10:25:01 - Script execution finished.
+2024-12-19 10:26:01 - Script execution started.
+2024-12-19 10:26:01 - RAM usage is 41%. No action required.
+2024-12-19 10:26:01 - Script execution finished.
+2024-12-19 10:27:02 - Script execution started.
+2024-12-19 10:27:02 - RAM usage is 39%. No action required.
+2024-12-19 10:27:02 - Script execution finished.
+2024-12-19 10:28:01 - Script execution started.
+2024-12-19 10:28:01 - RAM usage is 41%. No action required.
+2024-12-19 10:28:01 - Script execution finished.
+2024-12-19 10:29:01 - Script execution started.
+2024-12-19 10:29:01 - RAM usage is 39%. No action required.
+2024-12-19 10:29:01 - Script execution finished.
+2024-12-19 10:30:01 - Script execution started.
+2024-12-19 10:30:01 - RAM usage is 41%. No action required.
+2024-12-19 10:30:01 - Script execution finished.
+2024-12-19 10:31:01 - Script execution started.
+2024-12-19 10:31:01 - RAM usage is 40%. No action required.
+2024-12-19 10:31:01 - Script execution finished.
+2024-12-19 10:32:01 - Script execution started.
+2024-12-19 10:32:01 - RAM usage is 41%. No action required.
+2024-12-19 10:32:01 - Script execution finished.
+2024-12-19 10:33:02 - Script execution started.
+2024-12-19 10:33:02 - RAM usage is 40%. No action required.
+2024-12-19 10:33:02 - Script execution finished.
+2024-12-19 10:34:01 - Script execution started.
+2024-12-19 10:34:01 - RAM usage is 37%. No action required.
+2024-12-19 10:34:01 - Script execution finished.
+2024-12-19 10:35:01 - Script execution started.
+2024-12-19 10:35:01 - RAM usage is 40%. No action required.
+2024-12-19 10:35:01 - Script execution finished.
+2024-12-19 10:36:01 - Script execution started.
+2024-12-19 10:36:01 - RAM usage is 39%. No action required.
+2024-12-19 10:36:01 - Script execution finished.
+2024-12-19 10:37:01 - Script execution started.
+2024-12-19 10:37:01 - RAM usage is 39%. No action required.
+2024-12-19 10:37:01 - Script execution finished.
+2024-12-19 10:38:01 - Script execution started.
+2024-12-19 10:38:01 - RAM usage is 37%. No action required.
+2024-12-19 10:38:01 - Script execution finished.
+2024-12-19 10:39:02 - Script execution started.
+2024-12-19 10:39:02 - RAM usage is 40%. No action required.
+2024-12-19 10:39:02 - Script execution finished.
+2024-12-19 10:40:01 - Script execution started.
+2024-12-19 10:40:01 - RAM usage is 39%. No action required.
+2024-12-19 10:40:01 - Script execution finished.
+2024-12-19 10:41:01 - Script execution started.
+2024-12-19 10:41:01 - RAM usage is 41%. No action required.
+2024-12-19 10:41:01 - Script execution finished.
+2024-12-19 10:42:01 - Script execution started.
+2024-12-19 10:42:01 - RAM usage is 39%. No action required.
+2024-12-19 10:42:01 - Script execution finished.
+2024-12-19 10:43:01 - Script execution started.
+2024-12-19 10:43:01 - RAM usage is 41%. No action required.
+2024-12-19 10:43:01 - Script execution finished.
+2024-12-19 10:44:02 - Script execution started.
+2024-12-19 10:44:02 - RAM usage is 40%. No action required.
+2024-12-19 10:44:02 - Script execution finished.
+2024-12-19 10:45:01 - Script execution started.
+2024-12-19 10:45:01 - RAM usage is 39%. No action required.
+2024-12-19 10:45:01 - Script execution finished.
+2024-12-19 10:46:01 - Script execution started.
+2024-12-19 10:46:01 - RAM usage is 41%. No action required.
+2024-12-19 10:46:01 - Script execution finished.
+2024-12-19 10:47:01 - Script execution started.
+2024-12-19 10:47:01 - RAM usage is 39%. No action required.
+2024-12-19 10:47:01 - Script execution finished.
+2024-12-19 10:48:01 - Script execution started.
+2024-12-19 10:48:01 - RAM usage is 42%. No action required.
+2024-12-19 10:48:01 - Script execution finished.
+2024-12-19 10:49:02 - Script execution started.
+2024-12-19 10:49:02 - RAM usage is 41%. No action required.
+2024-12-19 10:49:02 - Script execution finished.
+2024-12-19 10:54:45 - Script execution started.
+2024-12-19 10:54:45 - RAM usage is 41%. No action required.
+2024-12-19 10:54:45 - Script execution finished.
+2024-12-19 10:55:02 - Script execution started.
+2024-12-19 10:55:02 - RAM usage is 41%. No action required.
+2024-12-19 10:55:02 - Script execution finished.
+2024-12-19 10:58:45 - Script execution started.
+2024-12-19 10:58:45 - RAM usage is 43%. No action required.
+2024-12-19 10:58:45 - Script execution finished.
+2024-12-19 11:00:01 - Script execution started.
+2024-12-19 11:00:01 - RAM usage is 50%. No action required.
+2024-12-19 11:00:01 - Script execution finished.
+2024-12-19 11:04:03 - Script execution started.
+2024-12-19 11:04:03 - RAM usage is 68%. No action required.
+2024-12-19 11:04:03 - Script execution finished.
+2024-12-19 11:05:01 - Script execution started.
+2024-12-19 11:05:01 - RAM usage is 71%. No action required.
+2024-12-19 11:05:01 - Script execution finished.
+2024-12-19 11:08:01 - Script execution started.
+2024-12-19 11:08:01 - RAM usage is 80%. No action required.
+2024-12-19 11:08:01 - Script execution finished.
+2024-12-19 11:09:01 - Script execution started.
+2024-12-19 11:09:01 - RAM usage is 80%. No action required.
+2024-12-19 11:09:01 - Script execution finished.
+2024-12-19 11:10:02 - Script execution started.
+2024-12-19 11:10:02 - RAM usage is 83%. Restarting services.
+2024-12-19 11:10:02 - Attempting to restart pam-auth.service...
+2024-12-19 11:10:02 - pam-auth.service restarted successfully.
+2024-12-19 11:10:02 - Attempting to restart pam-daemon.service...
+2024-12-19 11:10:02 - pam-daemon.service restarted successfully.
+2024-12-19 11:10:02 - Attempting to restart pam-gui.service...
+2024-12-19 11:11:02 - Script execution started.
+2024-12-19 11:11:02 - RAM usage is 89%. Restarting services.
+2024-12-19 11:11:02 - Attempting to restart pam-auth.service...
+2024-12-19 11:11:02 - pam-auth.service restarted successfully.
+2024-12-19 11:11:02 - Attempting to restart pam-daemon.service...
+2024-12-19 11:11:44 - Script execution started.
+2024-12-19 11:11:44 - RAM usage is 91%. Restarting services.
+2024-12-19 11:11:44 - Attempting to restart pam-auth.service...
+2024-12-19 11:11:44 - pam-auth.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-daemon.service...
+2024-12-19 11:10:02 - pam-gui.service restarted successfully.
+2024-12-19 11:10:02 - Attempting to restart pam-http.service...
+2024-12-19 11:11:02 - pam-daemon.service restarted successfully.
+2024-12-19 11:11:02 - Attempting to restart pam-gui.service...
+2024-12-19 11:11:44 - pam-daemon.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-gui.service...
+2024-12-19 11:12:02 - Script execution started.
+2024-12-19 11:12:02 - RAM usage is 40%. No action required.
+2024-12-19 11:12:02 - Script execution finished.
+2024-12-19 11:13:01 - Script execution started.
+2024-12-19 11:13:01 - RAM usage is 52%. No action required.
+2024-12-19 11:13:01 - Script execution finished.
+2024-12-19 11:11:02 - pam-gui.service restarted successfully.
+2024-12-19 11:11:02 - Attempting to restart pam-http.service...
+2024-12-19 11:11:44 - pam-gui.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-http.service...
+2024-12-19 11:11:02 - pam-http.service restarted successfully.
+2024-12-19 11:10:02 - pam-http.service restarted successfully.
+2024-12-19 11:11:02 - Attempting to restart pam-mobile.service...
+2024-12-19 11:10:02 - Attempting to restart pam-mobile.service...
+2024-12-19 11:11:44 - pam-http.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-mobile.service...
+2024-12-19 11:14:01 - Script execution started.
+2024-12-19 11:14:01 - RAM usage is 63%. No action required.
+2024-12-19 11:14:01 - Script execution finished.
+2024-12-19 11:11:02 - pam-mobile.service restarted successfully.
+2024-12-19 11:10:02 - pam-mobile.service restarted successfully.
+2024-12-19 11:11:02 - Attempting to restart pam-radius.service...
+2024-12-19 11:10:02 - Attempting to restart pam-radius.service...
+2024-12-19 11:11:44 - pam-mobile.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-radius.service...
+2024-12-19 11:11:02 - pam-radius.service restarted successfully.
+2024-12-19 11:11:02 - Attempting to restart pam-rdpgw.service...
+2024-12-19 11:10:02 - pam-radius.service restarted successfully.
+2024-12-19 11:10:02 - Attempting to restart pam-rdpgw.service...
+2024-12-19 11:11:44 - pam-radius.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-rdpgw.service...
+2024-12-19 11:11:02 - pam-rdpgw.service restarted successfully.
+2024-12-19 11:11:02 - Attempting to restart pam-reporting.service...
+2024-12-19 11:10:02 - pam-rdpgw.service restarted successfully.
+2024-12-19 11:10:02 - Attempting to restart pam-reporting.service...
+2024-12-19 11:11:44 - pam-rdpgw.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-reporting.service...
+2024-12-19 11:11:02 - pam-reporting.service restarted successfully.
+2024-12-19 11:11:02 - Attempting to restart pam-sftp.service...
+2024-12-19 11:10:02 - pam-reporting.service restarted successfully.
+2024-12-19 11:10:02 - Attempting to restart pam-sftp.service...
+2024-12-19 11:11:44 - pam-reporting.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-sftp.service...
+2024-12-19 11:15:01 - Script execution started.
+2024-12-19 11:15:01 - RAM usage is 69%. No action required.
+2024-12-19 11:15:01 - Script execution finished.
+2024-12-19 11:10:02 - pam-sftp.service restarted successfully.
+2024-12-19 11:10:02 - Attempting to restart pam-sql.service...
+2024-12-19 11:11:02 - pam-sftp.service restarted successfully.
+2024-12-19 11:11:02 - Attempting to restart pam-sql.service...
+2024-12-19 11:11:44 - pam-sftp.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-sql.service...
+2024-12-19 11:11:02 - pam-sql.service restarted successfully.
+2024-12-19 11:10:02 - pam-sql.service restarted successfully.
+2024-12-19 11:10:02 - Attempting to restart pam-ssh.service...
+2024-12-19 11:11:02 - Attempting to restart pam-ssh.service...
+2024-12-19 11:11:44 - pam-sql.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-ssh.service...
+2024-12-19 11:16:01 - Script execution started.
+2024-12-19 11:16:01 - RAM usage is 73%. No action required.
+2024-12-19 11:16:01 - Script execution finished.
+2024-12-19 11:11:02 - pam-ssh.service restarted successfully.
+2024-12-19 11:10:02 - pam-ssh.service restarted successfully.
+2024-12-19 11:11:44 - pam-ssh.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-tacacs.service...
+2024-12-19 11:10:02 - Attempting to restart pam-tacacs.service...
+2024-12-19 11:11:02 - Attempting to restart pam-tacacs.service...
+2024-12-19 11:10:02 - pam-tacacs.service restarted successfully.
+2024-12-19 11:10:02 - Attempting to restart pam-wdog.service...
+2024-12-19 11:11:02 - pam-tacacs.service restarted successfully.
+2024-12-19 11:11:02 - Attempting to restart pam-wdog.service...
+2024-12-19 11:11:44 - pam-tacacs.service restarted successfully.
+2024-12-19 11:11:44 - Attempting to restart pam-wdog.service...
+2024-12-19 11:11:02 - pam-wdog.service restarted successfully.
+2024-12-19 11:10:02 - pam-wdog.service restarted successfully.
+2024-12-19 11:11:02 - Script execution finished.
+2024-12-19 11:10:02 - Script execution finished.
+2024-12-19 11:11:44 - pam-wdog.service restarted successfully.
+2024-12-19 11:11:44 - Script execution finished.
+2024-12-19 11:17:01 - Script execution started.
+2024-12-19 11:17:01 - RAM usage is 80%. Restarting services.
+2024-12-19 11:17:01 - Attempting to restart pam-auth.service...
+2024-12-19 11:17:01 - pam-auth.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-daemon.service...
+2024-12-19 11:17:01 - pam-daemon.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-gui.service...
+2024-12-19 11:17:01 - pam-gui.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-http.service...
+2024-12-19 11:17:01 - pam-http.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-mobile.service...
+2024-12-19 11:17:01 - pam-mobile.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-radius.service...
+2024-12-19 11:17:01 - pam-radius.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-rdpgw.service...
+2024-12-19 11:17:01 - pam-rdpgw.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-reporting.service...
+2024-12-19 11:17:01 - pam-reporting.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-sftp.service...
+2024-12-19 11:17:01 - pam-sftp.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-sql.service...
+2024-12-19 11:17:01 - pam-sql.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-ssh.service...
+2024-12-19 11:17:01 - pam-ssh.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-tacacs.service...
+2024-12-19 11:17:01 - pam-tacacs.service restarted successfully.
+2024-12-19 11:17:01 - Attempting to restart pam-wdog.service...
+2024-12-19 11:17:01 - pam-wdog.service restarted successfully.
+2024-12-19 11:17:01 - Script execution finished.
+2024-12-19 11:18:03 - Script execution started.
+2024-12-19 11:18:03 - RAM usage is 75%. No action required.
+2024-12-19 11:18:03 - Script execution finished.
+2024-12-19 11:19:01 - Script execution started.
+2024-12-19 11:19:01 - RAM usage is 79%. No action required.
+2024-12-19 11:19:01 - Script execution finished.
+2024-12-19 11:20:02 - Script execution started.
+2024-12-19 11:20:02 - RAM usage is 78%. No action required.
+2024-12-19 11:20:02 - Script execution finished.
+2024-12-19 11:21:01 - Script execution started.
+2024-12-19 11:21:01 - RAM usage is 79%. No action required.
+2024-12-19 11:21:01 - Script execution finished.
+2024-12-19 11:22:01 - Script execution started.
+2024-12-19 11:22:01 - RAM usage is 78%. No action required.
+2024-12-19 11:22:01 - Script execution finished.
+2024-12-19 11:23:01 - Script execution started.
+2024-12-19 11:23:01 - RAM usage is 79%. No action required.
+2024-12-19 11:23:01 - Script execution finished.
+2024-12-19 11:24:01 - Script execution started.
+2024-12-19 11:24:01 - RAM usage is 78%. No action required.
+2024-12-19 11:24:01 - Script execution finished.
